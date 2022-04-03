@@ -8,6 +8,7 @@
     <style>
         body{
             background-image: url('https://i.ibb.co/xszgNsz/20220403-095446.png');
+            background-color: #1d1d1d;
             background-repeat: repeat-x;
         }
         h1{
